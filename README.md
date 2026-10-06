@@ -110,14 +110,14 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/558609266878185473"><img src="https://img.shields.io/badge/Discord-твой__ник-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/558609266878185473"><img src="https://img.shields.io/badge/Discord-sccamm-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://github.com/sccamm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ТВОЙ_НИК&style=for-the-badge&color=3B82F6)
+![Profile views](https://komarev.com/ghpvc/?username=sccamm&style=for-the-badge&color=3B82F6)
 
 </div>
 
