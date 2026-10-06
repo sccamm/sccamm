@@ -46,9 +46,9 @@
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sccamm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sccamm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sccamm&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -78,6 +78,32 @@
 - Каталог с категориями и корзиной
 - SQL-хранилище (заказы, пользователи, товары)
 - Админка прямо в Telegram
+
+---
+
+### 🛡 Discord Admin System (Python + discord.py)
+> Комплексный бот для управления администрацией Roblox-сообщества: сессии, ЗП, отчётность, ЧСА, тикеты.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/sccamm/discord-admin-bot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![discord.py](https://img.shields.io/badge/-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+- 5-ранговая иерархия с синхронизацией на 2 Discord-серверах
+- Учёт сессий, ЗП (с гибкой моделью премий), отчётность с экспортом в Excel + PNG
+- ЧСА/ЧСП, тикеты, промокоды с HTTP API на aiohttp
+
+---
+
+### ⭐ TGbuySelStars — Telegram Mini App (HTML + JS)
+> SPA для покупки/продажи Telegram Stars и Premium: ЮKassa, TON, реферальная система, история операций.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/sccamm/tgbuy-stars-miniapp)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- Работает как Telegram WebApp — без установки, прямо в мессенджере
+- ЮKassa + TON для пополнения, KYC/Non-KYC цены для Premium
+- Glassmorphism UI, ripple-анимации, mobile-first
 
 ---
 
